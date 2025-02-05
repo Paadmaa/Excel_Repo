@@ -1,4 +1,4 @@
-**Introduction to My GitHub Repository**
+**My GitHub Repository**
 
 Welcome to my GitHub repository! This space is dedicated to showcasing my analytical skills and proficiency in data visualization through a collection of Excel dashboard projects. Here, you'll find a variety of interactive and dynamic dashboards that I've created to analyze, interpret, and present data in a clear and impactful manner.
 
